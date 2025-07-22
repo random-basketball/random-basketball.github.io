@@ -1,1 +1,1 @@
-# random-basketball.github.io
+Experience the ultimate gaming thrill with Basket Random! Play directly in your browser, enjoy fullscreen mode, and immerse yourself in uninterrupted gameplay – completely ad-free. Dive into the adventure today!
