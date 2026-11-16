@@ -1,397 +1,82 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset
-      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
-            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
-<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
-
-
-<url>
-  <loc>https://random-basketball.github.io/</loc>
-  <lastmod>2025-05-21T14:15:39+00:00</lastmod>
-  <priority>1.00</priority>
-</url>
-<url>
-  <loc>https://random-basketball.github.io/categogy/New.html</loc>
-  <lastmod>2025-05-21T14:15:39+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://random-basketball.github.io/categogy/Car.html</loc>
-  <lastmod>2025-05-21T14:15:39+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://random-basketball.github.io/categogy/Sport.html</loc>
-  <lastmod>2025-05-21T14:15:39+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://random-basketball.github.io/categogy/Running.html</loc>
-  <lastmod>2025-05-21T14:15:39+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://random-basketball.github.io/categogy/Other.html</loc>
-  <lastmod>2025-05-21T14:15:39+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <lastmod>2025-05-21T14:15:39+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <lastmod>2025-05-21T14:15:39+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <lastmod>2025-05-21T14:15:39+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <lastmod>2025-05-21T14:15:39+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <lastmod>2025-05-21T14:15:39+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <lastmod>2025-05-21T14:15:39+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <lastmod>2025-05-21T14:15:39+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://random-basketball.github.io/games/among-us.html</loc>
-  <lastmod>2025-05-21T14:15:39+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <lastmod>2025-05-21T14:15:39+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://random-basketball.github.io/games/bitlife.html</loc>
-  <lastmod>2025-05-21T14:15:39+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <lastmod>2025-05-21T14:15:39+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <lastmod>2025-05-21T14:15:39+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://random-basketball.github.io/games/cookie-clicker.html</loc>
-  <lastmod>2025-05-21T14:15:39+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <lastmod>2025-05-21T14:15:39+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <lastmod>2025-05-21T14:15:39+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <lastmod>2025-05-21T14:15:39+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <lastmod>2025-05-21T14:15:39+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <lastmod>2025-05-21T14:15:39+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <lastmod>2025-05-21T14:15:39+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <lastmod>2025-05-21T14:15:39+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <lastmod>2025-05-21T14:15:39+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <lastmod>2025-05-21T14:15:39+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <lastmod>2025-05-21T14:15:39+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <lastmod>2025-05-21T14:15:39+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <lastmod>2025-05-21T14:15:39+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <lastmod>2025-05-21T14:15:39+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <lastmod>2025-05-21T14:15:39+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <lastmod>2025-05-21T14:15:39+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://random-basketball.github.io/games/moto-x3m-pool-party.html</loc>
-  <lastmod>2025-05-21T14:15:39+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <lastmod>2025-05-21T14:15:39+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <lastmod>2025-05-21T14:15:39+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <lastmod>2025-05-21T14:15:39+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <lastmod>2025-05-21T14:15:39+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <lastmod>2025-05-21T14:15:39+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://random-basketball.github.io/games/madalin-stunt-cars-2.html</loc>
-  <lastmod>2025-05-21T14:15:39+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://random-basketball.github.io/games/madalin-stunt-cars-3.html</loc>
-  <lastmod>2025-05-21T14:15:39+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <lastmod>2025-05-21T14:15:39+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <lastmod>2025-05-21T14:15:39+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <lastmod>2025-05-21T14:15:39+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <lastmod>2025-05-21T14:15:39+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <lastmod>2025-05-21T14:15:39+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <lastmod>2025-05-21T14:15:39+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <lastmod>2025-05-21T14:15:39+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <lastmod>2025-05-21T14:15:39+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <lastmod>2025-05-21T14:15:39+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <lastmod>2025-05-21T14:15:39+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <lastmod>2025-05-21T14:15:39+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <lastmod>2025-05-21T14:15:39+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <lastmod>2025-05-21T14:15:39+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <lastmod>2025-05-21T14:15:39+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <lastmod>2025-05-21T14:15:39+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <lastmod>2025-05-21T14:15:39+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <lastmod>2025-05-21T14:15:39+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <lastmod>2025-05-21T14:15:39+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <lastmod>2025-05-21T14:15:39+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://random-basketball.github.io/games/moto-x3m-2.html</loc>
-  <lastmod>2025-05-21T14:15:39+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://random-basketball.github.io/games/motox3m.html</loc>
-  <lastmod>2025-05-21T14:15:39+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <lastmod>2025-05-21T14:15:39+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://random-basketball.github.io/games/fruit-ninja.html</loc>
-  <lastmod>2025-05-21T14:15:39+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <lastmod>2025-05-21T14:15:39+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <lastmod>2025-05-21T14:15:39+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <lastmod>2025-05-21T14:15:39+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <lastmod>2025-05-21T14:15:39+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <lastmod>2025-05-21T14:15:39+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <lastmod>2025-05-21T14:15:39+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <lastmod>2025-05-21T14:15:39+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <lastmod>2025-05-21T14:15:39+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://random-basketball.github.io/games/mario.html</loc>
-  <lastmod>2025-05-21T14:15:39+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <lastmod>2025-05-21T14:15:39+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <lastmod>2025-05-21T14:15:39+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <lastmod>2025-05-21T14:15:39+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <lastmod>2025-05-21T14:15:39+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://random-basketball.github.io/games/FNAF1.html</loc>
-  <lastmod>2025-05-21T14:15:39+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <lastmod>2025-05-21T14:15:39+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://random-basketball.github.io/games/FNAF2.html</loc>
-  <lastmod>2025-05-21T14:15:39+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://random-basketball.github.io/games/FNAF3.html</loc>
-  <lastmod>2025-05-21T14:15:39+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <lastmod>2025-05-21T14:15:39+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <lastmod>2025-05-21T14:15:39+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <lastmod>2025-05-21T14:15:39+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <lastmod>2025-05-21T14:15:39+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <lastmod>2025-05-21T14:15:39+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <lastmod>2025-05-21T14:15:39+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <lastmod>2025-05-21T14:15:39+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <lastmod>2025-05-21T14:15:39+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <lastmod>2025-05-21T14:15:39+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <lastmod>2025-05-21T14:15:39+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url><loc>https://random-basketball.github.io/</loc><lastmod>2026-11-16</lastmod></url>
+  <url><loc>https://random-basketball.github.io/categogy/Car.html</loc><lastmod>2026-11-16</lastmod></url>
+  <url><loc>https://random-basketball.github.io/categogy/New.html</loc><lastmod>2026-11-16</lastmod></url>
+  <url><loc>https://random-basketball.github.io/categogy/Other.html</loc><lastmod>2026-11-16</lastmod></url>
+  <url><loc>https://random-basketball.github.io/categogy/Running.html</loc><lastmod>2026-11-16</lastmod></url>
+  <url><loc>https://random-basketball.github.io/categogy/Sport.html</loc><lastmod>2026-11-16</lastmod></url>
+  <url><loc>https://random-basketball.github.io/categogy/content.html</loc><lastmod>2026-11-16</lastmod></url>
+  <url><loc>https://random-basketball.github.io/AboutUs.html</loc><lastmod>2026-11-16</lastmod></url>
+  <url><loc>https://random-basketball.github.io/ContactUs.html</loc><lastmod>2026-11-16</lastmod></url>
+  <url><loc>https://random-basketball.github.io/PrivacyPolicy.html</loc><lastmod>2026-11-16</lastmod></url>
+  <url><loc>https://random-basketball.github.io/TermsandConditions.html</loc><lastmod>2026-11-16</lastmod></url>
+  <url><loc>https://random-basketball.github.io/games/legend-of-zelda-minish-cap.html</loc><lastmod>2026-11-16</lastmod></url>
+  <url><loc>https://random-basketball.github.io/games/pokemon-fire-red.html</loc><lastmod>2026-11-16</lastmod></url>
+  <url><loc>https://random-basketball.github.io/games/pokemon-leaf-green.html</loc><lastmod>2026-11-16</lastmod></url>
+  <url><loc>https://random-basketball.github.io/games/pokemon-ruby.html</loc><lastmod>2026-11-16</lastmod></url>
+  <url><loc>https://random-basketball.github.io/games/pokemon-sapphire.html</loc><lastmod>2026-11-16</lastmod></url>
+  <url><loc>https://random-basketball.github.io/games/sonic-advance-2.html</loc><lastmod>2026-11-16</lastmod></url>
+  <url><loc>https://random-basketball.github.io/games/sonic-advance-3.html</loc><lastmod>2026-11-16</lastmod></url>
+  <url><loc>https://random-basketball.github.io/games/sonic-advance.html</loc><lastmod>2026-11-16</lastmod></url>
+  <url><loc>https://random-basketball.github.io/games/legend-of-zelda-link-to-the-past.html</loc><lastmod>2026-11-16</lastmod></url>
+  <url><loc>https://random-basketball.github.io/games/super-mario-kart.html</loc><lastmod>2026-11-16</lastmod></url>
+  <url><loc>https://random-basketball.github.io/games/super-mario-world-two.html</loc><lastmod>2026-11-16</lastmod></url>
+  <url><loc>https://random-basketball.github.io/games/super-mario-world.html</loc><lastmod>2026-11-16</lastmod></url>
+  <url><loc>https://random-basketball.github.io/games/bloons-td-2.html</loc><lastmod>2026-11-16</lastmod></url>
+  <url><loc>https://random-basketball.github.io/games/bloons-td.html</loc><lastmod>2026-11-16</lastmod></url>
+  <url><loc>https://random-basketball.github.io/games/riddle-school-2.html</loc><lastmod>2026-11-16</lastmod></url>
+  <url><loc>https://random-basketball.github.io/games/riddle-school-3.html</loc><lastmod>2026-11-16</lastmod></url>
+  <url><loc>https://random-basketball.github.io/games/riddle-school-4.html</loc><lastmod>2026-11-16</lastmod></url>
+  <url><loc>https://random-basketball.github.io/games/riddle-school-5.html</loc><lastmod>2026-11-16</lastmod></url>
+  <url><loc>https://random-basketball.github.io/games/riddle-school.html</loc><lastmod>2026-11-16</lastmod></url>
+  <url><loc>https://random-basketball.github.io/games/riddle-transfer-2.html</loc><lastmod>2026-11-16</lastmod></url>
+  <url><loc>https://random-basketball.github.io/games/riddle-transfer.html</loc><lastmod>2026-11-16</lastmod></url>
+  <url><loc>https://random-basketball.github.io/games/2048.html</loc><lastmod>2026-11-16</lastmod></url>
+  <url><loc>https://random-basketball.github.io/games/9007199254740992.html</loc><lastmod>2026-11-16</lastmod></url>
+  <url><loc>https://random-basketball.github.io/games/ages-of-conflict.html</loc><lastmod>2026-11-16</lastmod></url>
+  <url><loc>https://random-basketball.github.io/games/among-us.html</loc><lastmod>2026-11-16</lastmod></url>
+  <url><loc>https://random-basketball.github.io/games/baldis-basics.html</loc><lastmod>2026-11-16</lastmod></url>
+  <url><loc>https://random-basketball.github.io/games/bitlife.html</loc><lastmod>2026-11-16</lastmod></url>
+  <url><loc>https://random-basketball.github.io/games/cell-machine.html</loc><lastmod>2026-11-16</lastmod></url>
+  <url><loc>https://random-basketball.github.io/games/chrome-dino.html</loc><lastmod>2026-11-16</lastmod></url>
+  <url><loc>https://random-basketball.github.io/games/circlo.html</loc><lastmod>2026-11-16</lastmod></url>
+  <url><loc>https://random-basketball.github.io/games/cookie-clicker.html</loc><lastmod>2026-11-16</lastmod></url>
+  <url><loc>https://random-basketball.github.io/games/core-ball.html</loc><lastmod>2026-11-16</lastmod></url>
+  <url><loc>https://random-basketball.github.io/games/death-run-3d.html</loc><lastmod>2026-11-16</lastmod></url>
+  <url><loc>https://random-basketball.github.io/games/doodle-jump.html</loc><lastmod>2026-11-16</lastmod></url>
+  <url><loc>https://random-basketball.github.io/games/drift-boss.html</loc><lastmod>2026-11-16</lastmod></url>
+  <url><loc>https://random-basketball.github.io/games/ducklife4.html</loc><lastmod>2026-11-16</lastmod></url>
+  <url><loc>https://random-basketball.github.io/games/flappy-bird.html</loc><lastmod>2026-11-16</lastmod></url>
+  <url><loc>https://random-basketball.github.io/games/FNAF1.html</loc><lastmod>2026-11-16</lastmod></url>
+  <url><loc>https://random-basketball.github.io/games/FNAF2.html</loc><lastmod>2026-11-16</lastmod></url>
+  <url><loc>https://random-basketball.github.io/games/FNAF3.html</loc><lastmod>2026-11-16</lastmod></url>
+  <url><loc>https://random-basketball.github.io/games/fnaf-5.html</loc><lastmod>2026-11-16</lastmod></url>
+  <url><loc>https://random-basketball.github.io/games/fruit-ninja.html</loc><lastmod>2026-11-16</lastmod></url>
+  <url><loc>https://random-basketball.github.io/games/geodash-subzero.html</loc><lastmod>2026-11-16</lastmod></url>
+  <url><loc>https://random-basketball.github.io/games/geodash.html</loc><lastmod>2026-11-16</lastmod></url>
+  <url><loc>https://random-basketball.github.io/games/google-feud.html</loc><lastmod>2026-11-16</lastmod></url>
+  <url><loc>https://random-basketball.github.io/games/hextris.html</loc><lastmod>2026-11-16</lastmod></url>
+  <url><loc>https://random-basketball.github.io/games/madalin-stunt-cars-2.html</loc><lastmod>2026-11-16</lastmod></url>
+  <url><loc>https://random-basketball.github.io/games/madalin-stunt-cars-3.html</loc><lastmod>2026-11-16</lastmod></url>
+  <url><loc>https://random-basketball.github.io/games/mario.html</loc><lastmod>2026-11-16</lastmod></url>
+  <url><loc>https://random-basketball.github.io/games/minesweeper.html</loc><lastmod>2026-11-16</lastmod></url>
+  <url><loc>https://random-basketball.github.io/games/moto-x3m-2.html</loc><lastmod>2026-11-16</lastmod></url>
+  <url><loc>https://random-basketball.github.io/games/moto-x3m-pool-party.html</loc><lastmod>2026-11-16</lastmod></url>
+  <url><loc>https://random-basketball.github.io/games/moto-x3m-spooky-land.html</loc><lastmod>2026-11-16</lastmod></url>
+  <url><loc>https://random-basketball.github.io/games/moto-x3m-winter.html</loc><lastmod>2026-11-16</lastmod></url>
+  <url><loc>https://random-basketball.github.io/games/motox3m.html</loc><lastmod>2026-11-16</lastmod></url>
+  <url><loc>https://random-basketball.github.io/games/pacman.html</loc><lastmod>2026-11-16</lastmod></url>
+  <url><loc>https://random-basketball.github.io/games/paperio2.html</loc><lastmod>2026-11-16</lastmod></url>
+  <url><loc>https://random-basketball.github.io/games/papery-planes.html</loc><lastmod>2026-11-16</lastmod></url>
+  <url><loc>https://random-basketball.github.io/games/retro-bowl.html</loc><lastmod>2026-11-16</lastmod></url>
+  <url><loc>https://random-basketball.github.io/games/slope.html</loc><lastmod>2026-11-16</lastmod></url>
+  <url><loc>https://random-basketball.github.io/games/solitaire.html</loc><lastmod>2026-11-16</lastmod></url>
+  <url><loc>https://random-basketball.github.io/games/subway-surfers-san-francisco.html</loc><lastmod>2026-11-16</lastmod></url>
+  <url><loc>https://random-basketball.github.io/games/temple-run-2.html</loc><lastmod>2026-11-16</lastmod></url>
+  <url><loc>https://random-basketball.github.io/games/tunnel-rush.html</loc><lastmod>2026-11-16</lastmod></url>
+  <url><loc>https://random-basketball.github.io/games/vex3.html</loc><lastmod>2026-11-16</lastmod></url>
+  <url><loc>https://random-basketball.github.io/games/vex4.html</loc><lastmod>2026-11-16</lastmod></url>
+  <url><loc>https://random-basketball.github.io/games/vex5.html</loc><lastmod>2026-11-16</lastmod></url>
+  <url><loc>https://random-basketball.github.io/games/vex6.html</loc><lastmod>2026-11-16</lastmod></url>
 </urlset>
