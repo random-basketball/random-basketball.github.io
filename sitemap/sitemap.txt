@@ -1,7 +1,6 @@
 https://random-basketball.github.io/
 https://random-basketball.github.io/categogy/New.html
 https://random-basketball.github.io/categogy/Car.html
-https://random-basketball.github.io/categogy/Shotting.html
 https://random-basketball.github.io/categogy/Sport.html
 https://random-basketball.github.io/categogy/Running.html
 https://random-basketball.github.io/categogy/Other.html
